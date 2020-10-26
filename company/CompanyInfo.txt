@@ -1,2 +1,6 @@
 Name: Testing Company
 Address: SG Ubi
+Phone number: 1234556
+Employees: 1000
+Area: 2000
+Region: Center
