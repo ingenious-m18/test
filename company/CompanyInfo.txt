@@ -1,6 +1,7 @@
 Name: Testing Company
-Address: SG Ubi
+Address: SG Paya Leybar
 Phone number: 1234556
 Employees: 1000
-Area: 2000
+Area: 3000
 Region: Center
+Business: IT
